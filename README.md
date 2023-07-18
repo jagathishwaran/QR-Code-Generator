@@ -1,11 +1,11 @@
 
 ## Title
 
-Calculator
+QR Code Generator
 
 
 ## Description 
-A simple and user-friendly web-based calculator built using HTML, CSS, and JavaScript. Perform basic arithmetic operations, delete characters, and evaluate expressions with ease. The calculator features a clean and responsive design, making it accessible on various devices. Customize the calculator's appearance using CSS and leverage Font Awesome icons for visual appeal. An ideal addition to any web development project.
+"Built using JavaScript, HTML, and CSS, this QR Code generator empowers you to quickly and effortlessly create QR codes. Simply input your desired text, URL, or any other information, and generate a QR code instantly. With a sleek and intuitive interface, this web application simplifies the process of generating QR codes for various purposes."
 
 ## Authors
 
@@ -33,19 +33,14 @@ Unleash your creativity and personalize the calculator according to your style!
 ## Features
 
 
-   1. Basic arithmetic operations: Addition, subtraction, multiplication, and division.
 
-   2. Decimal point support and clearing display.
 
-   3. Delete last character and evaluate expressions.
+   1. Universal QR Code Generation: Generate QR codes for numbers, letters, symbols, and more, accommodating a wide range of inputs.
 
-   4. User-friendly design with responsive layout.
+   2. Input Validation with Animation: Receive visual feedback with a shake animation when no input is given, ensuring valid data for QR code generation.
 
-   5. Styling with custom CSS for an appealing visual experience.
+   3. Partial Responsive Design: Enjoy the QR code generator across various devices, although it may not fully adapt to all screen sizes.
 
-   6. Use of popular web fonts for improved typography.
-
-   7. Integration of Font Awesome icons for enhanced aesthetics.
 
 
 
